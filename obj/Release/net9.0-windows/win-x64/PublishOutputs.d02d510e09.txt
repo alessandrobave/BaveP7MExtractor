@@ -1,0 +1,2 @@
+C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\bin\Release\net9.0-windows\win-x64\publish\P7MExtractor.pdb
+C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\bin\Release\net9.0-windows\win-x64\publish\P7MExtractor.exe
