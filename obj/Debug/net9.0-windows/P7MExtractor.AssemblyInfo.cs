@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P7MExtractor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe639223ab297142ac32f89d20a1771ad4b64161")]
 [assembly: System.Reflection.AssemblyProductAttribute("P7MExtractor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P7MExtractor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

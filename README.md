@@ -75,4 +75,12 @@ The compiled executable will be available in the `./publish` folder.
 
 ## License
 
-This project uses the BouncyCastle cryptography library, which is licensed under the MIT X11 License.
+This project is licensed under the MIT License with Commons Clause - see the [LICENSE](LICENSE) file for details.
+
+**Summary:**
+- ✅ Free to use, modify, and distribute
+- ✅ Attribution required (must credit Alessandro Stefani)
+- ❌ Cannot be sold or used commercially without permission
+
+**Dependencies:**
+- BouncyCastle cryptography library (MIT X11 License)

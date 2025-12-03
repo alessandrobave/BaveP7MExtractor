@@ -15,3 +15,4 @@ C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\obj\Debug\n
 C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\obj\Debug\net9.0-windows\P7MExtractor.pdb
 C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\obj\Debug\net9.0-windows\P7MExtractor.genruntimeconfig.cache
 C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\obj\Debug\net9.0-windows\ref\P7MExtractor.dll
+C:\Users\alessandro.stefani\.gemini\antigravity\scratch\P7MExtractor\obj\Debug\net9.0-windows\P7MExtractor.sourcelink.json
